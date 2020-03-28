@@ -26,7 +26,7 @@ module.exports = {
     },
 
     async create(request, response){
-      const { title, description, value } = requeste.body;
+      const { title, description, value } = request.body;
       const ong_id = request.headers.authorization;
 
       //Insere e pega o id gerado para o registro
