@@ -1,6 +1,6 @@
 # be-the-hero
 Projeto da Semana OmniStack 11
 
-Back-end
-Front-end
+Back-end,
+Front-end and
 Mobile
